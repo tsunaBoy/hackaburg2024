@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/startScreenBGM.mp3-f500e8e633c38366f082e46fb36438ca.mp3str"
+
+[deps]
+
+source_file="res://assets/scene0/bgm/startScreenBGM.mp3"
+dest_files=[ "res://.import/startScreenBGM.mp3-f500e8e633c38366f082e46fb36438ca.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

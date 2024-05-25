@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/0_BEGINN.mp3-fdc58ec55ec436d65ca8ddd3cf679b7d.mp3str"
+
+[deps]
+
+source_file="res://assets/scene0/speaker/0_BEGINN.mp3"
+dest_files=[ "res://.import/0_BEGINN.mp3-fdc58ec55ec436d65ca8ddd3cf679b7d.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0

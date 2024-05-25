@@ -1,0 +1,28 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://main.gd" type="Script" id=1]
+
+[node name="main" type="Control"]
+anchor_right = 1.0
+anchor_bottom = 1.0
+script = ExtResource( 1 )
+__meta__ = {
+"_edit_lock_": true
+}
+
+[node name="background" type="TextureRect" parent="."]
+pause_mode = 2
+anchor_right = 1.0
+anchor_bottom = 1.0
+expand = true
+
+[node name="BGM" type="AudioStreamPlayer" parent="."]
+pause_mode = 2
+
+[node name="SFX" type="AudioStreamPlayer" parent="."]
+pause_mode = 2
+
+[node name="Speaker" type="AudioStreamPlayer" parent="."]
+pause_mode = 2
+
+[node name="start" type="Timer" parent="."]
